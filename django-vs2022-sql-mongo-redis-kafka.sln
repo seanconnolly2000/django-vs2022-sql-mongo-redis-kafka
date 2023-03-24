@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "django-vs2022-sql-mongo-redis-kafka", "django-vs2022-sql-mongo-redis-kafka.pyproj", "{78EF9872-8FB5-4754-A6E1-250850C57DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78EF9872-8FB5-4754-A6E1-250850C57DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EF9872-8FB5-4754-A6E1-250850C57DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EF9872-8FB5-4754-A6E1-250850C57DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EF9872-8FB5-4754-A6E1-250850C57DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0FAF821-3137-42AC-986C-71253E0E910F}
+	EndGlobalSection
+EndGlobal
